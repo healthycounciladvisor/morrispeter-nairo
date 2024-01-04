@@ -1,0 +1,8 @@
+/* Bg color
+----------------------------*/
+.dark-bg {
+  background: $px-bg-2;
+  .theme-light & {
+    background: $px-gray;
+  }
+}

@@ -1,0 +1,121 @@
+.rtl-theme {
+  direction: rtl;
+  .header-left .nav-menu {
+    direction: ltr;
+  }
+  .home-banner .hb-top-fixed .hb-lang li + li {
+    margin-left: 0;
+    margin-right: 10px;
+  }
+  .header-left {
+    border-left: 1px solid rgba(11, 11, 19, 0.1);
+    right: 0;
+    left: auto;
+  }
+  @media (min-width: 768px) {
+    &.main-left {
+      padding-left: 0;
+      padding-right: 80px;
+    }
+  }
+  .about-info .info-list label {
+    padding-right: 0;
+    padding-left: 10px;
+  }
+  .ml-auto,
+  .mx-auto {
+    margin-left: 0 !important;
+    margin-right: auto;
+  }
+  .home-banner .hb-top-fixed .hb-lang {
+    margin-right: auto;
+    margin-left: initial;
+  }
+  .home-banner .hb-top-fixed .hb-info label + a,
+  .home-banner .hb-top-fixed .hb-info a + a {
+    margin-left: 0;
+    margin-right: 40px;
+  }
+  .home-banner .hb-me {
+    left: 0;
+    right: auto;
+  }
+  .home-banner:after {
+    left: -20vh;
+    right: auto;
+  }
+  .feature-box-01:after {
+    right: -40px;
+    left: auto;
+  }
+  .feature-box-01:hover:before {
+    right: -40px;
+    left: auto;
+  }
+  .feature-box-02 .media-body {
+    padding-left: 0;
+    padding-right: 15px;
+  }
+  .testimonial-01 {
+    direction: rtl;
+    .media-body {
+      padding-left: 0;
+      padding-right: 25px;
+    }
+  }
+  @media (min-width: 768px) {
+    .resume-row .rb-left {
+      border-right: 0;
+      border-left: 1px solid rgba(11, 11, 19, 0.05);
+    }
+  }
+
+  .portfolio-filter-01 .filter li.react-tabs__tab {
+    margin-right: 0;
+    margin-left: 30px;
+  }
+  .portfolio-filter-01 .filter {
+    padding: 0;
+  }
+  .contact-info li span {
+    padding-left: 0;
+    padding-right: 15px;
+  }
+  .footer {
+    @media (min-width: 768px) {
+      .text-md-end {
+        text-align: left !important;
+      }
+    }
+  }
+  .skill-lt {
+    padding-left: 0;
+    padding-right: 80px;
+  }
+  .skill-lt .count-inner {
+    left: auto;
+    right: 0;
+  }
+  .mob-header {
+    right: auto;
+    left: 20px;
+  }
+  @media (max-width: 767px) {
+    .header-left {
+      transform: translateX(102%);
+    }
+    .header-left.menu-open {
+      transform: translateX(0);
+    }
+  }
+  &.box_inner {
+    direction: rtl;
+    .article .article-title .media .media-body {
+      padding-left: 0;
+      padding-right: 10px;
+    }
+    .article .tag-cloud {
+      padding-right: 0;
+    }
+  }
+}

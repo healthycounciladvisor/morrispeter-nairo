@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+$px-theme: #ff9301 !default;
+$px-dark: #0b0b13 !default;
+$px-white: #fff !default;
+$px-black: #000 !default;
+
+$px-bg-1: #10101a !default;
+$px-bg-2: #0e0e17 !default;
+$px-bg-3: #0c0c14 !default;
+$px-gray: #f7f7ff !default;
+
+$px-body: rgba(255, 255, 255, 0.8) !default;
+$px-body-light: #555 !default;
+$px-font-size: 15px !default;
+$px-line-height: 1.7 !default;
+$px-font: "Rubik", monospac !default;
+$px-font-alt: "Rubik", serif !default;
+
+// Breakpoints
+$px-media-xsm: 567px !default;
+$px-media-sm: 767px !default;
+$px-media-md: 991px !default;
+$px-media-lg: 1200px !default;

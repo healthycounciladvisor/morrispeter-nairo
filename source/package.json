@@ -1,0 +1,59 @@
+{
+  "name": "nairo",
+  "version": "1.1.8",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "aos": "^2.3.4",
+    "photoswipe": "^5.3.4",
+    "react": "^18.1.0",
+    "react-animated-cursor": "^2.2.0",
+    "react-countup": "^6.0.0",
+    "react-dom": "^18.1.0",
+    "react-hook-form": "^7.6.3",
+    "react-icons": "4.2.0",
+    "react-masonry-css": "^1.0.16",
+    "react-modal": "^3.14.3",
+    "react-photoswipe-gallery": "^2.2.2",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-scrollspy": "^3.4.3",
+    "react-slick": "^0.29.0",
+    "react-tabs": "^6.0.0",
+    "react-text-loop": "^2.3.0",
+    "react-tooltip": "^4.2.21",
+    "react-transition-group": "^4.4.2",
+    "react-tsparticles": "^1.43.1",
+    "react-video-tag": "0.0.10",
+    "react-visibility-sensor": "^5.1.1",
+    "sass": "^1.57.1",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

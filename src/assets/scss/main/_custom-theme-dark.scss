@@ -1,0 +1,90 @@
+.ReactModal__Body--open {
+  .ReactModal__Content--after-open {
+    .box_inner {
+      .article .article-title h2 {
+        color: #0b0b13;
+      }
+      .article .article-content h1,
+      .article .article-content h2,
+      .article .article-content h3,
+      .article .article-content h4,
+      .article .article-content h5,
+      .article .article-content h6 {
+        color: #0b0b13;
+      }
+      .px-btn.px-btn-white {
+        background: #0b0b13;
+        border-color: #0b0b13;
+        color: #fff;
+        &:hover {
+          background: transparent;
+          color: #0b0b13;
+        }
+      }
+    }
+  }
+}
+
+.theme-dark {
+  .resume-row .rb-left label {
+    color: #fff;
+  }
+  .header-left {
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+    .nav-menu li + li {
+      border-top-color: rgba(255, 255, 255, 0.1);
+    }
+  }
+  p,
+  span,
+  .meta {
+    color: rgba(255, 255, 255, 0.8);
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .about-info .info-list label {
+    color: $px-white !important;
+  }
+  .feature-box-01,
+  .feature-box-02,
+  .testimonial-01 {
+    background: #010101;
+  }
+  .separated {
+    filter: invert(1);
+  }
+  .home-banner {
+    .type-box {
+      .desc {
+        color: rgba(255, 255, 255, 0.8);
+      }
+      .lead {
+        color: $px-theme;
+      }
+      h6 {
+        color: #c8c8cb;
+      }
+    }
+  }
+  .contact-form .form-control.theme-light {
+    color: rgba(255, 255, 255, 0.73);
+    border-color: rgba(255, 255, 255, 0.3);
+    background: #0e0e17;
+  }
+  .px-btn.px-btn-white {
+    background: #fff;
+    border-color: #fff;
+    color: #0b0b13;
+    &:hover {
+      background: transparent;
+      color: #fff;
+    }
+  }
+  .portfolio-filter-01 .filter li.react-tabs__tab {
+    color: #fff;
+  }
+}
