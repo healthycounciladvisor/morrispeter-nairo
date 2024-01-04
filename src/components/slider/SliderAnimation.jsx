@@ -24,16 +24,7 @@ const Slider = () => {
             <a href="tel:+1(501)340-0233">{conctInfo.phone}</a>
             <a href="morrispeter0311@gmail.com">{conctInfo.email}</a>
           </div>
-          <div className="hb-lang">
-            <ul className="nav">
-              <li className="active">
-                <a href="#">EN</a>
-              </li>
-              <li>
-                <a href="#">Ch</a>
-              </li>
-            </ul>
-          </div>
+          
         </div>
         {/* End hp-top-fixed */}
 
