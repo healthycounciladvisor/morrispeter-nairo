@@ -32,31 +32,19 @@ export default function SimpleSlider() {
   const TestimonilContent = [
     {
       imageName: "team-1",
-      desc: `  Lorem Ipsum is simply dummy text of the printing and
-      typesetting industry. Lorem Ipsum has been the industry's
-      standard dummy text ever since the 1500s.`,
+      desc: `  Nancy Byers is my best CEO and Hiring Manager`,
       reviewerName: "Nancy Byers",
-      designation: "CEO at ib-themes",
+      designation: "CEO and Hiring Manager",
       delayAnimation: "",
     },
     {
       imageName: "team-2",
-      desc: ` Lorem Ipsum is simply dummy text of the printing and
-      typesetting industry. Lorem Ipsum has been the industry's
-      standard dummy text ever since the 1500s.`,
-      reviewerName: "Jara Afsari",
-      designation: "CEO at ib-themes",
+      desc: ` Dakeshida is our teams best UX, UI designer`,
+      reviewerName: "Dakeshida Shung",
+      designation: "UX, UI Designer",
       delayAnimation: "200",
     },
-    {
-      imageName: "team-4",
-      desc: ` Lorem Ipsum is simply dummy text of the printing and
-      typesetting industry. Lorem Ipsum has been the industry's
-      standard dummy text ever since the 1500s.`,
-      reviewerName: "Janiaya kiaram",
-      designation: "Visual Designer",
-      delayAnimation: "400",
-    },
+    
   ];
 
   return (

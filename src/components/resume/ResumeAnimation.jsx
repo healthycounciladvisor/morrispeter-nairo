@@ -3,61 +3,49 @@ import Skills from "../skills/Skills";
 
 const resumeContent = [
   {
-    jobPosition: `Sr. Front-end Engineer`,
+    jobPosition: `Sr. Software Developer`,
     jobType: `Google | Remote`,
-    jobDuration: `Feb 2021 - Present`,
+    jobDuration: `Aug 2016 - Jun 2017`,
     timeDuraton: `Full Time`,
-    compnayName: "Google LLC",
-    jobDescription: `Adipisicing Lorem ipsum dolor sit amet, consectetur elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "Integrated! Pte Ltd",
+    jobDescription: `In my academic years at Integrated!, I secured an intern role with Ltd-al as a Software Developer for an intensive year-long program. This unpaid internship was instrumental in transitioning my theoretical knowledge into practical skills. Upon completion, Ltd-al extended a full-time offer acknowledging my capabilities.`,
     delayAnimation: "",
   },
   {
-    jobPosition: `Visual Designer`,
+    jobPosition: `Software Engineer`,
     jobType: `Ridian | Remote`,
-    jobDuration: `Mar 2020 - Present`,
+    jobDuration: `Jun 2017 - Jun 2018`,
     timeDuraton: `Part Time`,
-    compnayName: "Ridian IT",
-    jobDescription: `Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-    irure dolor. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit, sed do eiusmod tempor incididunt ut
-    labore et dolore magna aliqua.`,
+    compnayName: "Lufthansa Industry Solutions",
+    jobDescription: `Following the successful completion of my internship program, I was presented with an exciting opportunity to work with Lufthansa on a one-year contract, collaborating with a prestigious company based in Singapore and other countries. Joining a specialized team within Lufthansa, my primary focus revolved around building and implementing APIs, as well as applying Object-Oriented Programming (OOP) software design patterns, primarily utilizing JavaScript and Python.`,
     delayAnimation: "100",
   },
   {
-    jobPosition: `Animation Artist`,
+    jobPosition: `Full Stack Developer`,
     jobType: `IbThemes | Remote`,
-    jobDuration: `Jan 2019 - Present`,
+    jobDuration: `Aug 2018 - Jun 2023`,
     timeDuraton: `Full Time`,
-    compnayName: "IB Themes",
-    jobDescription: ` Consectetur adipisicing elit,lorem ipsum dolor sit amet,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "VA Leaders Group",
+    jobDescription: ` As a freelance developer collaborating with Leaders Group, I've gained experience in building and maintaining web applications with a range of technologies, working with a team of skilled developers.`,
     delayAnimation: "200",
   },
 ];
 
 const educatonContent = [
   {
-    passingYear: "2018-2020",
+    passingYear: "Sep 2015-Jul 2019",
     degreeTitle: "Ph.D in Horriblensess",
-    instituteName: "University Of Evil Doing",
+    instituteName: "High School Diploma",
   },
   {
-    passingYear: "2013-2016",
+    passingYear: "Oct 2019-Jul 2022",
     degreeTitle: "Bsc. in Computer Science",
-    instituteName: "World University",
+    instituteName: "Bachelor of Applied Science - BASc",
   },
   {
-    passingYear: "2010-2012",
+    passingYear: "Sep 2023-Present",
     degreeTitle: "Graphic Artist Training ",
-    instituteName: "Graphic Master Institute",
+    instituteName: "Master of Computer Applications - MCA",
   },
 ];
 

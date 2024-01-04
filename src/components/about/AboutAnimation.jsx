@@ -27,8 +27,8 @@ const About = () => {
                 </div>
                 {/* End img */}
                 <div className="info">
-                  <p>SoftWare Developer</p>
-                  <h3>David Meier</h3>
+                  <p>Full Stack Developer</p>
+                  <h3>Morris Peter</h3>
                 </div>
                 {/* End info */}
               </div>
@@ -37,7 +37,7 @@ const About = () => {
             {/* End col */}
 
             <div
-              className="col-lg-7 ml-auto"
+              className="col-lg-6 ml-auto"
               data-aos="fade-up"
               data-aos-duration="1200"
               data-aos-delay="200"
@@ -49,8 +49,8 @@ const About = () => {
 
                 <div className="about-text">
                   <p>
-                    I'm a Freelancer Front-end Developer with over 8 years of
-                    experience. I'm from Karlsruhe. I code and create web
+                    I'm a Freelancer Front-end Developer with over 7 years of
+                    experience. I'm from Tampines. I code and create web
                     elements for amazing people around the world. I like work
                     with new people. New people new Experiences.
                   </p>
@@ -65,19 +65,19 @@ const About = () => {
                       <ul>
                         <li>
                           <label>Name: </label>
-                          <span>David Meier</span>
+                          <span>Morris Peter</span>
                         </li>
                         <li>
                           <label>Birthday: </label>
-                          <span>4th April 1994</span>
+                          <span>11th march 1997</span>
                         </li>
                         <li>
                           <label>Age: </label>
-                          <span>28 years</span>
+                          <span>27 years</span>
                         </li>
                         <li>
                           <label>Address: </label>
-                          <span>Karlsruhe</span>
+                          <span>Tampines</span>
                         </li>
                       </ul>
                     </div>
@@ -85,7 +85,7 @@ const About = () => {
                       <ul>
                         <li>
                           <label>Phone: </label>
-                          <span>(+14) 695140362</span>
+                          <span>+1(501)340-0233</span>
                         </li>
                         <li>
                           <label>Email: </label>
@@ -93,7 +93,7 @@ const About = () => {
                         </li>
                         <li>
                           <label>Skype: </label>
-                          <span>Software King</span>
+                          <span>M-0311</span>
                         </li>
                         <li>
                           <label>Freelance: </label>

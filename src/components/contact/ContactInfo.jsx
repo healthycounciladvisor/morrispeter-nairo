@@ -14,7 +14,7 @@ const ContactInfo = () => {
           <li className="media">
             <i className="icon icon-map"></i>
             <span className="media-body">
-              123 Stree Karlsruhe City , Finland 750065.
+             Tampines Central 1 #01-250 " Blk 511
             </span>
           </li>
           {/* End li */}
@@ -27,7 +27,7 @@ const ContactInfo = () => {
 
           <li className="media">
             <i className="icon icon-phone"></i>
-            <span className="media-body">+146 95140362</span>
+            <span className="media-body">+1(501)340-0233</span>
           </li>
           {/* End li */}
         </ul>

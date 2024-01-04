@@ -7,11 +7,11 @@ const conctInfo = {
 };
 
 const sliderContent = {
-  name: "David Meier",
-  designation: "SoftWare Developer",
+  name: "Morris Peter",
+  Role: "Full Stack Developer",
   description: `Ever since I was a little child, I grew fond of programming, just like I was born for it and now I got confidence to make the world bette place.
 Logical and result-driven software developer dedicated to building and optimizing user-focused websites and applications. Judicious and creative when crafting effective websites, apps and ecommerce platforms to propel competitive advantage and revenue growth. Technically proficient and analytical problem solver with calm and focused attitude.`,
-  btnText: " Donwload CV",
+  btnText: " Download CV",
 };
 
 const Slider = () => {
@@ -21,10 +21,8 @@ const Slider = () => {
       <section id="home" className="home-banner">
         <div className="hb-top-fixed d-flex">
           <div className="hb-info">
-            <a href="tel:+14695140362">{conctInfo.phone}</a>
-            <a href="morrispeter0311@gmail.com">
-              {conctInfo.email}
-            </a>
+            <a href="tel:+1(501)340-0233">{conctInfo.phone}</a>
+            <a href="morrispeter0311@gmail.com">{conctInfo.email}</a>
           </div>
           <div className="hb-lang">
             <ul className="nav">
@@ -32,7 +30,7 @@ const Slider = () => {
                 <a href="#">EN</a>
               </li>
               <li>
-                <a href="#">FR</a>
+                <a href="#">Ch</a>
               </li>
             </ul>
           </div>
@@ -60,9 +58,9 @@ const Slider = () => {
                   data-aos-delay="200"
                 >
                   <TextLoop>
-                    <p className="loop-text lead">SoftWare Developer</p>
-                    <p className="loop-text lead"> App Developer</p>
-                    <p className="loop-text lead"> App Developer</p>
+                    <p className="loop-text lead">Full Stack Developer</p>
+                    <p className="loop-text lead"> Software Developer</p>
+                    <p className="loop-text lead"> Software engineer</p>
                   </TextLoop>
                 </div>
 
